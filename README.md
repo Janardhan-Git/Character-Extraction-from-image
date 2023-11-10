@@ -1,1 +1,1 @@
-This is sample python code to extract text from an image.
+This is python code to extract text from an image.
